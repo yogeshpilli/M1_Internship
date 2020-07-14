@@ -4,7 +4,7 @@ M1_Internship_Laboratory_HubertCurien_Information Diffusion in Online Communitie
 
 ## Main contributions
 
-- Performing the Edge Homogeneity between the Source Node and Target Node 
+- Performing the Edge Homogeneity and preprocessing the data for getting the Source Node and Target Node 
 - Tool for visualizing the Probability Density Function of Edge Homogeneity
 - Prediction of future political stance based on labels with Recurrent Neural Network with LSTM model
 
