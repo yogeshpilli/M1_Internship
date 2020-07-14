@@ -79,4 +79,5 @@ M1_Internship_Laboratory_HubertCurien_Information Diffusion in Online Communitie
 - Report folder contains the weekly reports throughout the internship
 
 ### FinalDocuments:
-- 
+-  Final Report of the internship
+-  Presentation Slides of the internship
